@@ -49,3 +49,8 @@ Config/DefaultEditorLayout.ini
 # Git LFS for large binary files (if using Git LFS)
 *.uasset
 *.umap
+
+/Engine/Plugins/
+/Engine/Content/
+/Content/Bridge/
+
